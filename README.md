@@ -1,5 +1,9 @@
 # How do I pass construct objects for a cross stack reference in a single CDK project?
 
+Reference: https://repost.aws/knowledge-center/cdk-cross-stack-reference
+
+---
+
 ## Part 1: Deploy producer_stack:
 
 1. Create a project and invoke cdk init in an empty directory:
